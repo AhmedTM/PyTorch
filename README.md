@@ -2,4 +2,4 @@
 
 this is just simple codes implemented in [PyTorch](https://pytorch.org/) 
 
-![PyTorch Logo](./pytorchlogo.png) 
+![PyTorch Logo](./img/pytorchlogo.png) 
